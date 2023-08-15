@@ -18,6 +18,6 @@ We thrive on collaboration! Feel free to contribute your own projects, insights,
 
 📬 **Contact Us:**
 
-Got questions, ideas, or just want to connect? Reach out to us at [email@example.com](contactwithwaqasahmed@gmail.com). We're excited to hear from you! 📧
+Got questions, ideas, or just want to connect? Reach out to us at [contactwithwaqasahmed@gmail.com](contactwithwaqasahmed@gmail.com). We're excited to hear from you! 📧
 
 Start exploring, coding, and innovating with our Aimldlprojectsportfolio repository. The future of AI, ML, and DL awaits you! 🚀🤖
